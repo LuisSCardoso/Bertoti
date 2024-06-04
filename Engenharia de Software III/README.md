@@ -1,1 +1,1 @@
-![DesignPattern](https://github.com/LuisSCardoso/Bertoti/assets/112117985/cbdc89ba-602a-4e6e-b638-445ce34900e8)
+![DesignPattern](https://github.com/LuisSCardoso/Bertoti/assets/112117985/fa565bfe-a8d3-454e-9fc1-27e1617c5c19)
